@@ -1,17 +1,18 @@
-### Hi there 👋
+### 👋 Hey! I'm Eduardo V | Bebopskull - I make pixels dance and engines purr
 
+🎮 Technical Artist who speaks fluent Unreal Engine:
+- 4+ years crafting XR broadcasting solutions in UE4/5
+- Blueprint wizardry + C++ when things get serious
+- Niagara particle systems & custom shaders (HLSL/GLSL)
+- Motion capture (Blacktrax), physical computing and databse integration
+- real-time optimization
+- Web experiments with React, Three.js & creative coding (Touchdesigner, Houdini, Unreal Engine)
 
-<!--
-**Bebopskull/bebopskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📺 Day job: Building interactive educational content @LUV | TFO
+🎨 After hours: Tinkering with experimental media @NIKAI-INTERACTIVE
+🧪 Always: Learning something new & probably breaking something in the process
 
-Here are some ideas to get you started:
+Born in South America, creating in Toronto 🇨🇦
+Coffee-fueled, curiosity-driven, collaboration-ready
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio → https://nikai.xyz
