@@ -1,4 +1,4 @@
-### 👋 Hey! I'm Eduardo V | Bebopskull -
+### 👋 Hey! I'm Eduardo V | Bebopskull
 
 🎮 Technical Artist who speaks fluent Unreal Engine:
 - 4+ years crafting XR broadcasting solutions in UE4/5
