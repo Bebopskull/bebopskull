@@ -15,4 +15,4 @@
 Born in South America, creating in Toronto 🇨🇦
 Coffee-fueled, curiosity-driven, collaboration-ready
 
-Portfolio → www.https://nikai.xyz
+Portfolio → [www.https://nikai.xyz](https://www.nikai.xyz/)
