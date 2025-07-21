@@ -1,18 +1,17 @@
-### 👋 Hey! I'm Eduardo V | Bebopskull
+👋 Hey! I'm Eduardo V | Bebopskull
 
-🎮 Technical Artist who speaks fluent Unreal Engine:
-- 4+ years crafting XR broadcasting solutions in UE4/5
-- Blueprint wizardry + C++ when things get serious
-- Niagara particle systems & custom shaders (HLSL/GLSL)
-- Motion capture (Blacktrax), physical computing and databse integration
-- real-time optimization
-- Web experiments with React, Three.js & creative coding (Touchdesigner, Houdini, Unreal Engine)
 
-📺 Day job: Building interactive educational content @LUV | TFO
-🎨 After hours: Tinkering with experimental media @NIKAI-INTERACTIVE
-🧪 Always: Learning something new & probably breaking something in the process
+🎯 Creative Technologist building interactive 3D experiences across web and real-time engines:
 
-Born in South America, creating in Toronto 🇨🇦
-Coffee-fueled, curiosity-driven, collaboration-ready
+3D Web: React Three Fiber, Three.js, WebGL/GLSL shaders, procedural generation
+Real-time Engines: 4+ years Unreal Engine (Blueprint + C++, Niagara particles)
+Creative Coding: TouchDesigner, custom interactive systems, motion capture integration
+Modern Web: TypeScript, React, Vite - performance-obsessed, always optimizing
 
-Portfolio → [www.https://nikai.xyz](https://www.nikai.xyz/)
+📺 Day job: Technical Artist @LUV | TFO (20+ interactive features delivered)
+🚀 Side hustle: Building digital experiences @NIKAI-INTERACTIVE
+🎓 Next: PhD in Augmented Spaces + immersive heritage preservation
+Current obsessions: Shader programming, R3F architecture, making browsers do impossible things
+Born in Caquetá 🇨🇴, creating in Hamilton 🇨🇦
+Coffee-powered, curiosity-driven, always learning
+Portfolio → nikai.xyz | Let's build something cool together 🤝
