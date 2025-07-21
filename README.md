@@ -10,8 +10,9 @@ Modern Web: TypeScript, React, Vite - performance-obsessed, always optimizing
 
 📺 Day job: Technical Artist @LUV | TFO (20+ interactive features delivered)
 🚀 Side hustle: Building digital experiences @NIKAI-INTERACTIVE
-🎓 Next: PhD in Augmented Spaces + immersive heritage preservation
-Current obsessions: Shader programming, R3F architecture, making browsers do impossible things
+Current obsessions: Shader programming, R3F architecture, making browsers do cool 3D things
+
 Born in Caquetá 🇨🇴, creating in Hamilton 🇨🇦
+
 Coffee-powered, curiosity-driven, always learning
 Portfolio → nikai.xyz | Let's build something cool together 🤝
