@@ -1,6 +1,6 @@
 👋 Eduardo V — Bebopskull
 🧵 Creative technologist & research-practitioner
-   weaving code, culture & cosmology
+   weaving code & culture
 
 🧶 Telar @LintelAtelier — narrative engine for world-building.
    Stories that breathe.
