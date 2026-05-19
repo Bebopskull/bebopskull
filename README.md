@@ -1,18 +1,13 @@
-👋 Hey! I'm Eduardo V | Bebopskull
+👋 Eduardo V — Bebopskull
+🧵 Creative technologist & research-practitioner
+   weaving code, culture & cosmology
 
+🧶 Telar @LintelAtelier — narrative engine for world-building.
+   Stories that breathe.
 
-🎯 Creative Technologist building interactive 3D experiences across web and real-time engines:
+🌿 NIKAI Interactive — XR for cultural mediation and heritage.
+   Cultivating culturally informed technologies, not extraction.
 
-3D Web: React Three Fiber, Three.js, WebGL/GLSL shaders, procedural generation
-Real-time Engines: 4+ years Unreal Engine (Blueprint + C++, Niagara particles)
-Creative Coding: TouchDesigner, custom interactive systems, motion capture integration
-Modern Web: TypeScript, React, Vite - performance-obsessed, always optimizing
+🛠 Real-time 3D across web & engines · shaders · procedural systems
 
-📺 Day job: Technical Artist @LUV | TFO (20+ interactive features delivered)
-🚀 Side hustle: Building digital experiences @NIKAI-INTERACTIVE
-Current obsessions: Shader programming, R3F architecture, making browsers do cool 3D things
-
-Born in Caquetá 🇨🇴, creating in Hamilton 🇨🇦
-
-Coffee-powered, curiosity-driven, always learning
-Portfolio → nikai.xyz | Let's build something cool together 🤝
+nikai.xyz | lintelatelier.com
